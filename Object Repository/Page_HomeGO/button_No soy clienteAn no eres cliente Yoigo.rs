@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No soy clienteAn no eres cliente Yoigo</name>
+   <tag></tag>
+   <elementGuidId>603d7518-265d-41b9-a210-4c42b29df87e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-step-header-1']/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.client-select_not_selected__6_vHR</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5a54340-6951-47e3-8a2a-9998f2fa8c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>client-select_not_selected__6_vHR</value>
+      <webElementGuid>59befc34-d325-4864-9eb7-313c1597ce32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No soy clienteAún no eres cliente Yoigo</value>
+      <webElementGuid>621cc2f7-12fb-4493-94fd-bee32c2f1cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-step-header-1&quot;)/div[@class=&quot;checkout-step_body__EMYJI&quot;]/div[@class=&quot;checkout-steps_client_select__r0oUL&quot;]/div[@class=&quot;client-select_container__F2Xsi&quot;]/button[@class=&quot;client-select_not_selected__6_vHR&quot;]</value>
+      <webElementGuid>fdf1afee-c127-4845-9b27-d34fa6303d6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-step-header-1']/div[2]/div/div/button[2]</value>
+      <webElementGuid>1a71424b-4efd-40d1-8145-234386ae5b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disfruta de las ventajas de ser cliente Yoigo'])[1]/following::button[1]</value>
+      <webElementGuid>4c00910c-709a-47ef-bb92-0a06fa750d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre y apellidos'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ba5abc9-3ab7-4c69-a2ef-dd963f1db2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No soy cliente']/parent::*</value>
+      <webElementGuid>943f405a-2c63-41d9-b590-725ca0c3103d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>78dd63f8-be51-4b2a-af2a-677e25a3f22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'No soy clienteAún no eres cliente Yoigo' or . = 'No soy clienteAún no eres cliente Yoigo')]</value>
+      <webElementGuid>c2bdf264-bbf1-44d3-9667-4b34130dd6d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

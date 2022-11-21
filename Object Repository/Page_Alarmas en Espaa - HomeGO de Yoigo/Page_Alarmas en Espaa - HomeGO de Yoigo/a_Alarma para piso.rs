@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Alarma para piso</name>
+   <tag></tag>
+   <elementGuidId>bf2ea0f2-2d0a-4850-a0c6-5794a2420b08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-item_nav_dropdown_content__pTieO > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68e47487-f16d-45ab-bba2-c3605ba05b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/alarmas-para-casa/pisos</value>
+      <webElementGuid>2b98d145-9a54-44a0-85ae-4950fdc418f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alarma para piso</value>
+      <webElementGuid>254253cd-fecc-40dc-bdda-edc25ab23780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/div[@class=&quot;app_header__Iy4wF&quot;]/main[@class=&quot;nav_main__Xrjkk&quot;]/section[@class=&quot;nav_desktop__aF_Sb&quot;]/section[@class=&quot;nav_funcional_desktop__sAvHa&quot;]/div[@class=&quot;nav_inner_desktop__0TxBL&quot;]/div[@class=&quot;nav_items_menu_desktop__qfnS6&quot;]/div[@class=&quot;nav_items_desktop__yGXDb&quot;]/div[@class=&quot;nav-item_container_desktop__XHfty&quot;]/div[@class=&quot;nav-item_content__ZBnBq&quot;]/div[@class=&quot;nav-item_nav_dropdown__n_Wjx&quot;]/div[@class=&quot;nav-item_nav_dropdown_content__pTieO&quot;]/a[1]</value>
+      <webElementGuid>590a3741-b731-4d8e-a348-a8ccff6119f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/div/main/section[3]/section/div/div/div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>479a7fa3-400c-46d8-b5fc-f07e619fac8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Alarma para piso')])[2]</value>
+      <webElementGuid>dcc2fd12-651c-46ae-952e-48d122005ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alarmas para casa'])[2]/following::a[1]</value>
+      <webElementGuid>a1e56ff6-f703-440a-8acc-e28c91376727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te llamamos'])[1]/following::a[4]</value>
+      <webElementGuid>31da8bae-4654-4a98-9f8a-050a06be3328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alarma para bajo / ático'])[2]/preceding::a[1]</value>
+      <webElementGuid>363e866a-8b5e-4a8f-9ff5-bd66352d8937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alarma para chalets'])[2]/preceding::a[2]</value>
+      <webElementGuid>94a5838b-f4b8-4df8-8315-02cdfca5e5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/alarmas-para-casa/pisos')])[2]</value>
+      <webElementGuid>4b6a896c-f660-4c3e-a3a3-11a2cd6fedcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>f977dc2c-e7dc-4a5e-aea8-62699bd1dfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/alarmas-para-casa/pisos' and (text() = 'Alarma para piso' or . = 'Alarma para piso')]</value>
+      <webElementGuid>c200d6d4-d423-4cca-8f7e-54601f060f55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

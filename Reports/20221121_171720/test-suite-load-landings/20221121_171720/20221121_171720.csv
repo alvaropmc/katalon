@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-load-landings,Chrome 107.0.0.0,,,2022-11-21 17:17:39,2022-11-21 17:18:25,"45,532s",PASSED
+,,,,,,,
+Test Cases/homego-load-home,Chrome 107.0.0.0,,,2022-11-21 17:17:40,2022-11-21 17:18:02,"22,422s",PASSED
+"openBrowser(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-21 17:17:40,2022-11-21 17:17:58,"18,215s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-21 17:17:58,2022-11-21 17:18:02,"3,596s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-21 17:18:02,2022-11-21 17:18:02,"0,203s",PASSED
+,,,,,,,
+Test Cases/homego-load-pisos,Chrome 107.0.0.0,,,2022-11-21 17:18:02,2022-11-21 17:18:25,"22,637s",PASSED
+"openBrowser(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-21 17:18:02,2022-11-21 17:18:17,"14,578s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-21 17:18:17,2022-11-21 17:18:21,"4,008s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info""))",Chrome 107.0.0.0,,,2022-11-21 17:18:21,2022-11-21 17:18:24,"3,534s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-21 17:18:24,2022-11-21 17:18:25,"0,281s",PASSED

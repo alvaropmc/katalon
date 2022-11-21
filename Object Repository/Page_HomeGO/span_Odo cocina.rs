@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Odo cocina</name>
+   <tag></tag>
+   <elementGuidId>691ca4f5-0489-447b-9703-8e2f262f418c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout']/div[2]/main/section/div/div/h1/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1fa12968-87ad-4327-90c9-fc1e332ac6a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+          title_title_line__5LFNy
+          title__headline1__FjEXY
+        </value>
+      <webElementGuid>8bb31c33-b2b6-4ac6-8a70-86a7d2a3f778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¡Oído cocina!</value>
+      <webElementGuid>ab0a606e-503f-4088-abef-b7d791fc50fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/div[@class=&quot;app_body__A7L1d&quot;]/main[1]/section[@class=&quot;gracias_gracias__3bDKM
+      gracias_page_container__T_JAj
+      __popPage&quot;]/div[1]/div[@class=&quot;title_container__V85BU&quot;]/h1[1]/div[@class=&quot;title_title_line_container__5o6cc
+			undefined&quot;]/p[1]/span[@class=&quot;title_title_line__5LFNy
+          title__headline1__FjEXY&quot;]</value>
+      <webElementGuid>49821a85-8032-4f60-93c5-afe453314285</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/div[2]/main/section/div/div/h1/div/p/span</value>
+      <webElementGuid>de0a4a3e-0343-48a3-bc37-bbcf3d19ed84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saber Más'])[2]/following::span[1]</value>
+      <webElementGuid>380adbda-2d1d-4134-9f85-34e685f13c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saber Más'])[1]/following::span[2]</value>
+      <webElementGuid>61fd2850-bfd0-4443-bb76-4e9a95f8da0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmación de pedido'])[1]/preceding::span[2]</value>
+      <webElementGuid>d49d9aeb-c1a6-41d4-ad84-68d832fd65c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirma tu alta'])[1]/preceding::span[3]</value>
+      <webElementGuid>564eb4a8-be57-4fbb-b1a6-29554fddc496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¡Oído cocina!']/parent::*</value>
+      <webElementGuid>f4035a6f-52d0-44f3-92e8-8681fe145d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>2bf57533-9752-4081-82da-dc0558bfa57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '¡Oído cocina!' or . = '¡Oído cocina!')]</value>
+      <webElementGuid>58be4275-8de2-4370-bd87-d988bd014ebf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

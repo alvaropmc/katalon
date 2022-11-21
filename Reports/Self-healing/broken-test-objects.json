@@ -1,0 +1,74 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@id\u003d\u0027onetrust-accept-btn-handler\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Alarma para piso",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Te llamamos\u0027])[1]/following::a[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Alarma para piso_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Alarma para piso",
+      "brokenLocator": "//div[@id\u003d\u0027layout\u0027]/div/main/section[3]/section/div/div/div[2]/div/div/div[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Te llamamos\u0027])[1]/following::a[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Alarma para piso_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/button_No soy clienteAn no eres cliente Yoigo",
+      "brokenLocator": "//div[@id\u003d\u0027layout\u0027]/div[2]/main/div/section/div/div/div/div/div/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Disfruta de las ventajas de ser cliente Yoigo\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/button_No soy clienteAn no eres cliente Yoigo_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/a_Lo quiero",
+      "brokenLocator": "//div[@id\u003d\u0027layout\u0027]/div[2]/main/div/section/div/div/div/div/div[2]/section[2]/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027¿Tienes dudas?\u0027])[1]/preceding::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/a_Lo quiero_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_HomeGO/input_An no eres cliente Yoigo_name",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@name\u003d\u0027name\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_HomeGO/input_An no eres cliente Yoigo_name_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_HomeGO/input_Nombre y apellidos_phone",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@name\u003d\u0027phone\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_HomeGO/input_Nombre y apellidos_phone_attributes.png"
+    }
+  ]
+}
