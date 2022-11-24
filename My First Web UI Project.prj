@@ -6,6 +6,7 @@
    <UUID>91a0dd40-06a6-4c70-9980-5051c861be89</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/alvaromendoza/Documents/work/masmovil/alarmas/testing/katalon/katalon/My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
