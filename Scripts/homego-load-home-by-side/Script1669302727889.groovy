@@ -23,9 +23,9 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://yoigo-alarms-frontend.dev.k8s.masmovil.com/')
 
-WebUI.waitForPageLoad(10)
+WebUI.waitForPageLoad(15)
 
-WebUI.delay(10)
+WebUI.delay(15)
 
 WebUI.click(findTestObject('Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar'))
 
