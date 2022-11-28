@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://yoigo-alarms-frontend.dev.k8s.masmovil.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar'))
+WebUI.click(findTestObject('Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar'))
 
-WebUI.click(findTestObject('Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info'))
+WebUI.click(findTestObject('Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info'))
 
 WebUI.closeBrowser()
 

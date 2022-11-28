@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('/var/folders/hx/45_4ph1947v9l7dz1tx71fjc0000gn/T/Katalon/Test Cases/homego-load-home-by-side/20221128_141312/execution.properties')
+RunConfiguration.setExecutionSettingFile('/var/folders/hx/45_4ph1947v9l7dz1tx71fjc0000gn/T/Katalon/Test Cases/homego-load-pisos/20221128_162330/execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/homego-load-home-by-side', new TestCaseBinding('Test Cases/homego-load-home-by-side',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('Test Cases/homego-load-pisos', new TestCaseBinding('Test Cases/homego-load-pisos',[:]), FailureHandling.STOP_ON_FAILURE , false)
     
