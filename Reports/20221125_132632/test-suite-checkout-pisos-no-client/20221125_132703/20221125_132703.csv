@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-checkout-pisos-no-client,Chrome 107.0.0.0,,,2022-11-25 13:29:31,2022-11-25 13:30:40,"1m - 9,072s",PASSED
+,,,,,,,
+Test Cases/homego-pisos-checkout,Chrome 107.0.0.0,,,2022-11-25 13:29:31,2022-11-25 13:30:40,"1m - 8,568s",PASSED
+"openBrowser(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-25 13:29:32,2022-11-25 13:29:57,"24,835s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-25 13:29:57,2022-11-25 13:30:04,"7,094s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info""))",Chrome 107.0.0.0,,,2022-11-25 13:30:04,2022-11-25 13:30:09,"4,791s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/button_No soy clienteAn no eres cliente Yoigo""))",Chrome 107.0.0.0,,,2022-11-25 13:30:09,2022-11-25 13:30:19,"10,295s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarma para pisos Desde 29,90mes  Yoigo/a_Lo quiero""))",Chrome 107.0.0.0,,,2022-11-25 13:30:19,2022-11-25 13:30:20,"0,827s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_An no eres cliente Yoigo_name""), ""testpnc"")",Chrome 107.0.0.0,,,2022-11-25 13:30:20,2022-11-25 13:30:24,"4,060s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Nombre y apellidos_phone""), ""689209341"")",Chrome 107.0.0.0,,,2022-11-25 13:30:24,2022-11-25 13:30:25,"0,852s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Tu mvil Yoigo_email""), ""testpnc@gmail.com"")",Chrome 107.0.0.0,,,2022-11-25 13:30:25,2022-11-25 13:30:26,"1,493s",PASSED
+"click(findTestObject(""Object Repository/Page_HomeGO/input_Tu e-mail_legal""))",Chrome 107.0.0.0,,,2022-11-25 13:30:26,2022-11-25 13:30:27,"0,672s",PASSED
+"click(findTestObject(""Object Repository/Page_HomeGO/button_Confirmar""))",Chrome 107.0.0.0,,,2022-11-25 13:30:27,2022-11-25 13:30:27,"0,686s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Tipo de documento_docNumber""), ""90160253T"")",Chrome 107.0.0.0,,,2022-11-25 13:30:27,2022-11-25 13:30:29,"1,835s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Nombre de la empresa_postalCode""), ""28050"")",Chrome 107.0.0.0,,,2022-11-25 13:30:29,2022-11-25 13:30:30,"1,034s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Cdigo postal_province""), ""madrid"")",Chrome 107.0.0.0,,,2022-11-25 13:30:30,2022-11-25 13:30:32,"1,213s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Provincia_city""), ""madrid"")",Chrome 107.0.0.0,,,2022-11-25 13:30:32,2022-11-25 13:30:33,"1,181s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Localidad_type""), ""Calle"")",Chrome 107.0.0.0,,,2022-11-25 13:30:33,2022-11-25 13:30:34,"1,044s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_An no eres cliente Yoigo_name""), ""Pintor antonio Saura"")",Chrome 107.0.0.0,,,2022-11-25 13:30:34,2022-11-25 13:30:35,"1,046s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Nombre de la va_number""), ""14"")",Chrome 107.0.0.0,,,2022-11-25 13:30:35,2022-11-25 13:30:36,"1,017s",PASSED
+"scrollToElement(findTestObject(""Page_HomeGO/input_Nombre de la va_number""), 0)",Chrome 107.0.0.0,,,2022-11-25 13:30:36,2022-11-25 13:30:36,"0,544s",PASSED
+"click(findTestObject(""Object Repository/Page_HomeGO/button_Continuar""))",Chrome 107.0.0.0,,,2022-11-25 13:30:36,2022-11-25 13:30:37,"0,921s",PASSED
+"setText(findTestObject(""Object Repository/Page_HomeGO/input_Datos de pago y confirmacin_iban""), ""ES5600495298990058356710"")",Chrome 107.0.0.0,,,2022-11-25 13:30:37,2022-11-25 13:30:39,"1,337s",PASSED
+"click(findTestObject(""Object Repository/Page_HomeGO/input_Tu e-mail_legal""))",Chrome 107.0.0.0,,,2022-11-25 13:30:39,2022-11-25 13:30:39,"0,431s",PASSED
+"click(findTestObject(""Object Repository/Page_HomeGO/button_Confirmar el pedido""))",Chrome 107.0.0.0,,,2022-11-25 13:30:39,2022-11-25 13:30:40,"0,642s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-25 13:30:40,2022-11-25 13:30:40,"0,142s",PASSED

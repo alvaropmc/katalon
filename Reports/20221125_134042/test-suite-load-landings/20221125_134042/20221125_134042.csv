@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-load-landings,Chrome 107.0.0.0,,,2022-11-25 13:41:00,2022-11-25 13:42:08,"1m - 7,910s",PASSED
+,,,,,,,
+Test Cases/homego-load-home,Chrome 107.0.0.0,,,2022-11-25 13:41:00,2022-11-25 13:41:21,"21,080s",PASSED
+"openBrowser(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-25 13:41:01,2022-11-25 13:41:18,"17,237s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-25 13:41:18,2022-11-25 13:41:21,"3,078s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-25 13:41:21,2022-11-25 13:41:21,"0,365s",PASSED
+,,,,,,,
+Test Cases/homego-load-pisos,Chrome 107.0.0.0,,,2022-11-25 13:41:21,2022-11-25 13:41:43,"21,782s",PASSED
+"openBrowser(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-25 13:41:22,2022-11-25 13:41:36,"14,662s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-25 13:41:36,2022-11-25 13:41:38,"2,030s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info""))",Chrome 107.0.0.0,,,2022-11-25 13:41:38,2022-11-25 13:41:43,"4,589s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-25 13:41:43,2022-11-25 13:41:43,"0,254s",PASSED
+,,,,,,,
+Test Cases/homego-load-home-by-side,Chrome 107.0.0.0,,,2022-11-25 13:41:43,2022-11-25 13:42:08,"24,534s",PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-25 13:41:43,2022-11-25 13:41:48,"4,466s",PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-25 13:41:48,2022-11-25 13:41:48,"0,151s",PASSED
+"navigateToUrl(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-25 13:41:48,2022-11-25 13:41:59,"10,726s",PASSED
+waitForPageLoad(50),Chrome 107.0.0.0,,,2022-11-25 13:41:59,2022-11-25 13:41:59,"0,170s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-25 13:41:59,2022-11-25 13:42:01,"2,043s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Llamadme ahora""), 0)",Chrome 107.0.0.0,,,2022-11-25 13:42:01,2022-11-25 13:42:05,"3,793s",PASSED
+"verifyTextPresent(""¿Necesitas ayuda?"", true)",Chrome 107.0.0.0,,,2022-11-25 13:42:05,2022-11-25 13:42:07,"2,675s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-25 13:42:07,2022-11-25 13:42:08,"0,194s",PASSED

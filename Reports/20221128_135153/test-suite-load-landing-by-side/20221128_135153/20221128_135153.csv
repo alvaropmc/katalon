@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-load-landing-by-side,Chrome 107.0.0.0,,,2022-11-28 13:52:11,2022-11-28 13:52:40,"29,488s",PASSED
+,,,,,,,
+Test Cases/homego-load-home-by-side,Chrome 107.0.0.0,,,2022-11-28 13:52:11,2022-11-28 13:52:40,"29,006s",PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 13:52:11,2022-11-28 13:52:19,"7,333s",PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-28 13:52:19,2022-11-28 13:52:19,"0,182s",PASSED
+"navigateToUrl(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Chrome 107.0.0.0,,,2022-11-28 13:52:19,2022-11-28 13:52:31,"12,004s",PASSED
+waitForPageLoad(50),Chrome 107.0.0.0,,,2022-11-28 13:52:31,2022-11-28 13:52:31,"0,432s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Chrome 107.0.0.0,,,2022-11-28 13:52:31,2022-11-28 13:52:34,"2,156s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Llamadme ahora""), 0)",Chrome 107.0.0.0,,,2022-11-28 13:52:34,2022-11-28 13:52:37,"3,488s",PASSED
+"verifyTextPresent(""¿Necesitas ayuda?"", true)",Chrome 107.0.0.0,,,2022-11-28 13:52:37,2022-11-28 13:52:40,"2,835s",PASSED
+closeBrowser(),Chrome 107.0.0.0,,,2022-11-28 13:52:40,2022-11-28 13:52:40,"0,169s",PASSED

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Llamadme ahora</name>
+   <tag></tag>
+   <elementGuidId>77bbdf1b-18c5-4475-a79f-1b81c7d729f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout']/div[2]/main/div/section/section/div/article/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>daa40d40-f245-4e34-b11d-2584f2c7884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+      undefined
+      button_base__L57y3
+      button_outlined__LXkl_
+      button_auto__RECiX
+      undefined
+      undefined
+      button__body1__tIrcS
+      __press
+    </value>
+      <webElementGuid>2c6533b1-4643-4ac5-81fc-f72185915673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Llamadme ahora</value>
+      <webElementGuid>7c848fda-9a71-4130-a9ae-020a644e88ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout&quot;)/div[@class=&quot;app_body__A7L1d&quot;]/main[1]/div[@class=&quot;index_container__KNQ8V __popPage&quot;]/section[@class=&quot;index_page_container__32ni5&quot;]/section[@class=&quot;banner-aniversario_container__P0G5c 
+        false
+        banner-aniversario_client__S5Vnt
+        container_magic&quot;]/div[@class=&quot;banner-aniversario_content__uhpvR banner-aniversario_content_home__F2_4J&quot;]/article[@class=&quot;banner-aniversario_info__q79w_&quot;]/div[@class=&quot;banner-aniversario_price_container__vU2bG&quot;]/div[@class=&quot;banner-aniversario_desktop_button_container__EIc4l&quot;]/button[@class=&quot;undefined
+      button_base__L57y3
+      button_outlined__LXkl_
+      button_auto__RECiX
+      undefined
+      undefined
+      button__body1__tIrcS
+      __press&quot;]</value>
+      <webElementGuid>d866b32c-1abe-4bb4-8785-9161e76b5ec1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout']/div[2]/main/div/section/section/div/article/div/div/button</value>
+      <webElementGuid>288c63c9-be95-4b68-9886-ec2ba8459c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HomeGO'])[2]/following::button[1]</value>
+      <webElementGuid>1913df38-f69b-4202-b2a1-80527be12318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Llamadme ahora'])[2]/preceding::button[1]</value>
+      <webElementGuid>5b287df0-af4f-490d-a205-33e5552f8797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calidad y seguridad'])[1]/preceding::button[1]</value>
+      <webElementGuid>ca16410d-5b55-4a31-98eb-6e4b41426bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Llamadme ahora']/parent::*</value>
+      <webElementGuid>91ad45b6-ae46-4590-80cf-ec40b283e922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>5763c5bc-506b-4ba3-84cc-17dfae4768c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Llamadme ahora' or . = 'Llamadme ahora')]</value>
+      <webElementGuid>25dad3b8-ac57-47e3-adde-ca6db432a260</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

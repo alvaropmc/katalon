@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-load-landing-by-side,Safari 16,,,2022-11-28 13:53:46,2022-11-28 13:54:04,"17,649s",FAILED
+,,,,,,,
+Test Cases/homego-load-home-by-side,Safari 16,,,2022-11-28 13:54:00,2022-11-28 13:54:04,"3,584s",FAILED
+"openBrowser("""")",Safari 16,,,2022-11-28 13:54:00,2022-11-28 13:54:01,"0,518s",PASSED
+maximizeWindow(),Safari 16,,,2022-11-28 13:54:01,2022-11-28 13:54:01,"0,030s",PASSED
+"navigateToUrl(""https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"")",Safari 16,,,2022-11-28 13:54:01,2022-11-28 13:54:01,"0,358s",PASSED
+waitForPageLoad(50),Safari 16,,,2022-11-28 13:54:01,2022-11-28 13:54:03,"2,172s",PASSED
+"click(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar""))",Safari 16,,,2022-11-28 13:54:03,2022-11-28 13:54:03,"0,168s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Llamadme ahora""), 0)",Safari 16,,,2022-11-28 13:54:03,2022-11-28 13:54:03,"0,066s",PASSED
+"verifyTextPresent(""¿Necesitas ayuda?"", true)",Safari 16,,,2022-11-28 13:54:03,2022-11-28 13:54:04,"0,256s",FAILED

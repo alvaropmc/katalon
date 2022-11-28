@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+test-suite-load-landing-by-side,,,,2022-11-28 08:47:24,2022-11-28 08:47:26,"1,513s",FAILED
+,,,,,,,
+Test Cases/homego-load-home-by-side,,,,2022-11-28 08:47:26,2022-11-28 08:47:26,"0,050s",FAILED
+"openBrowser("""")",,,,2022-11-28 08:47:26,2022-11-28 08:47:26,"0,028s",FAILED

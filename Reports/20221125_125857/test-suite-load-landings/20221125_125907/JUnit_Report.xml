@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="test-suite-load-landings" time="45.249" tests="2" failures="0" errors="0">
+   <testsuite name="test-suite-load-landings" tests="2" failures="0" errors="0" time="45.249" skipped="0" timestamp="2022-11-25 13:00:27" hostname="alvaromendoza - 192.168.1.137" id="Test Suites/test-suite-load-landings">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/alvaromendoza/Documents/work/masmovil/alarmas/testing/katalon/katalon/Reports/20221125_125857/test-suite-load-landings/20221125_125907"/>
+         <property name="logFiles" value="/Users/alvaromendoza/Documents/work/masmovil/alarmas/testing/katalon/katalon/Reports/20221125_125857/test-suite-load-landings/20221125_125907/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="alvaromendoza - 192.168.1.137"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.137"/>
+         <property name="sessionId" value="f11dbad34d4dc34c6ebd402d9aa65855"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/homego-load-home" time="21.78" classname="Test Cases/homego-load-home" status="PASSED">
+         <system-out><![CDATA[2022-11-25 13:00:27 - [TEST_CASE][PASSED] - Test Cases/homego-load-home: Test Cases/homego-load-home
+
+2022-11-25 13:00:27 - [TEST_STEP][PASSED] - openBrowser("https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"): Browser is opened with url: 'https://yoigo-alarms-frontend.dev.k8s.masmovil.com/'
+
+2022-11-25 13:00:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-25 13:00:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-25 13:00:46 - [MESSAGE][PASSED] - Browser is opened with url: 'https://yoigo-alarms-frontend.dev.k8s.masmovil.com/'
+
+2022-11-25 13:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar")): Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar' is clicked on
+
+2022-11-25 13:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar' is clicked on
+
+2022-11-25 13:00:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-25 13:00:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/homego-load-pisos" time="22.961" classname="Test Cases/homego-load-pisos" status="PASSED">
+         <system-out><![CDATA[2022-11-25 13:00:49 - [TEST_CASE][PASSED] - Test Cases/homego-load-pisos: Test Cases/homego-load-pisos
+
+2022-11-25 13:00:49 - [TEST_STEP][PASSED] - openBrowser("https://yoigo-alarms-frontend.dev.k8s.masmovil.com/"): Browser is opened with url: 'https://yoigo-alarms-frontend.dev.k8s.masmovil.com/'
+
+2022-11-25 13:00:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-25 13:00:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-25 13:01:04 - [MESSAGE][PASSED] - Browser is opened with url: 'https://yoigo-alarms-frontend.dev.k8s.masmovil.com/'
+
+2022-11-25 13:01:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar")): Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar' is clicked on
+
+2022-11-25 13:01:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/button_Aceptar' is clicked on
+
+2022-11-25 13:01:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info")): Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info' is clicked on
+
+2022-11-25 13:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Alarmas en Espaa - HomeGO de Yoigo/a_Ms info' is clicked on
+
+2022-11-25 13:01:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-11-25 13:01:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-25 13:00:27 - [TEST_SUITE][PASSED] - test-suite-load-landings: Test Cases/homego-load-pisos]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
